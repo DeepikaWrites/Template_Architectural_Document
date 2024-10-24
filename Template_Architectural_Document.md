@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document Title</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+---
+title: My Markdown Preview
+---
+
+<link rel="stylesheet" href="styles.css">
 
 ## Scope
 
