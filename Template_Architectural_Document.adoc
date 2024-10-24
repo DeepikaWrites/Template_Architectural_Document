@@ -1,4 +1,4 @@
-:stylesheet: styles.css
+:stylesheet: C:\Users\kathe\.vscode\Projects\styles.css
 
 == Scope
 
