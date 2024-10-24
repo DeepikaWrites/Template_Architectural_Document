@@ -1,7 +1,4 @@
-:stylesheet: styles.css
-
-== Scope
-===
+## Scope
 
 The scope of the document is to elaborate on the following:
 
