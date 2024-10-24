@@ -10,7 +10,7 @@ The scope of the document is to elaborate on the following:
 * IMP-PSC Implementation on VDK
 * IMP-PSC VDK API Specification
 
-<hr>
+<div style="page-break-before:always"></div>
 
 ## Scopy
 
