@@ -1,6 +1,7 @@
-:stylesheet: C:\Users\kathe\.vscode\Projects\styles.css
+:stylesheet: styles.css
 
 == Scope
+===
 
 The scope of the document is to elaborate on the following:
 
