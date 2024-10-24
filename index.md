@@ -1,7 +1,3 @@
----
-title: My Markdown Preview
----
-
 <link rel="stylesheet" href="styles.css">
 
 ## Scope
