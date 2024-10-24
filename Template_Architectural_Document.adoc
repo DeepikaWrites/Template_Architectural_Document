@@ -1,3 +1,5 @@
+:stylesheet: styles.css
+
 == Scope
 
 The scope of the document is to elaborate on the following:
