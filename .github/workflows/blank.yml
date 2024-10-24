@@ -28,7 +28,7 @@ jobs:
           pandoc document.md -o document.pdf
       
       - name: Upload PDF
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4.4.3
         with:
           name: document-pdf
           path: document.pdf
