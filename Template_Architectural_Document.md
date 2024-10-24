@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document Title</title>
+    <link rel="stylesheet" href="path/to/your/styles.css">
+</head>
+<body>
+
 ## Scope
 
 The scope of the document is to elaborate on the following:
